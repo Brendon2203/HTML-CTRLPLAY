@@ -1,0 +1,18 @@
+.text-banner{
+    color: red;  /* Mudando a cor do texto para vermelho!! */
+    text-align: center; /* Centralizando texto!! */
+}
+
+h1{
+    color:aqua;
+}
+body{   /* Mudando a cord do body!!*/
+    background-color: black;
+}
+
+.container{
+    width: 80vw;
+    background-color: red;
+    height: 30vh;
+
+}
